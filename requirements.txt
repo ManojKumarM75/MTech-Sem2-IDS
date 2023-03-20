@@ -1,0 +1,7 @@
+nltk == 3.8.1
+wordcloud
+scikit-learn
+gensim
+matplotlib
+plotly
+pandas
